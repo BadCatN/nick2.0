@@ -20,7 +20,7 @@
 /*	Basic Style 
 /* =================================== */
 body {
-  background-color: #FF0000;
+  background-color: #ff0000;
   font-family: "Open Sans", sans-serif;
   line-height: 24px;
   font-size: 16px;
@@ -38,7 +38,7 @@ iframe {
 }
 
 a {
-  color: #FFFF00;
+  color: #ffff00;
   transition: all 0.3s ease-out 0s;
 }
 
