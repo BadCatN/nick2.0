@@ -314,15 +314,7 @@ main > section {
   padding: 0;
 }
 
-.mask-overly {
-  background: rgba(0, 0, 0, 0.2) none repeat scroll 0 0;
-  bottom: 0;
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 0;
-  z-index: 9;
-}
+
 
 .slider-1 {
   background-image: url(https://565495-1823429-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Ella_3100x2140_17_V2-1024x707.jpg);
