@@ -955,7 +955,7 @@ ul.external li a:hover {
 }
 
 .price-table .value {
-  background-color: #f8f8f8;
+  background-color: #ff3333;
   color: #727272;
   padding: 20px 0;
   transition: all 0.7s ease 0s;
