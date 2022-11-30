@@ -884,7 +884,7 @@ ul.external li a:hover {
 }
 
 .testimonial-item > div:before {
-  background-image: url("../images/icons/quotes.png");
+  background-image: url("https://media.istockphoto.com/id/1159160582/photo/fashion-model-gold-dress-woman-full-length-portrait-in-golden-yellow-long-gown-on-white.jpg?s=170667a&w=0&k=20&c=HwAJCwvuRg8e7kb53pphigQ-L3sSEYv76GK62mT40rw=");
   background-repeat: no-repeat;
   bottom: 127px;
   height: 33px;
@@ -895,7 +895,7 @@ ul.external li a:hover {
 }
 
 .testimonial-item > div:after {
-  background-image: url("../images/icons/quotes.png");
+  background-image: url("https://media.istockphoto.com/id/1159160582/photo/fashion-model-gold-dress-woman-full-length-portrait-in-golden-yellow-long-gown-on-white.jpg?s=170667a&w=0&k=20&c=HwAJCwvuRg8e7kb53pphigQ-L3sSEYv76GK62mT40rw=");
   background-position: -58px 0;
   background-repeat: no-repeat;
   bottom: -50px;
@@ -1018,12 +1018,12 @@ ul.external li a:hover {
 	Price
 ==================================================================*/
 #social {
-  background-image: url(https://i.pinimg.com/736x/37/e4/35/37e4355509ff05bc62233d211e96f68b.jpg);
+  background-image: url(https://565495-1823429-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/06/Ella_3100x2140_17_V2-1024x707.jpg);
   padding: 0;
 }
 
 #social .overlay {
-  background: url("https://i.pinimg.com/736x/37/e4/35/37e4355509ff05bc62233d211e96f68b.jpg") repeat scroll 0 0 transparent;
+  background: url("") repeat scroll 0 0 transparent;
   padding: 100px 0 120px;
 }
 
