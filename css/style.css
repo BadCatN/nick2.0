@@ -38,7 +38,7 @@ iframe {
 }
 
 a {
-  color: #ffff00;
+  color: #ffffff;
   transition: all 0.3s ease-out 0s;
 }
 
@@ -63,7 +63,7 @@ h6,
 .h5,
 .h6 {
   font-family: "Open Sans", sans-serif;
-  color: #252525;
+  color: #99ffbb;
 }
 
 p {
