@@ -395,7 +395,7 @@ main > section {
 /*Slider Arrow Buttons*/
 #nav-arrows > a {
   border: 1px solid #fff;
-  color: #fff;
+  color: #000000;
   display: block;
   height: 60px;
   line-height: 76px;
