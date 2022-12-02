@@ -149,7 +149,7 @@ main > section {
 }
 
 .section-title h2 {
-  color: #0aa6bd;
+  color: #000000;
   font-size: 24px;
   font-weight: 700;
   line-height: 20px;
@@ -296,7 +296,7 @@ main > section {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #0aa6bd;
+  background-color: #000000;
   visibility: hidden;
   transform: scaleX(0);
   transition: all 0.3s ease-in-out 0s;
@@ -431,8 +431,8 @@ main > section {
 
 #nav-arrows > a.sl-next:hover,
 #nav-arrows > a.sl-prev:hover {
-  background-color: #0aa6bd;
-  border-color: #0aa6bd;
+  background-color: #000000;
+  border-color: #000000;
   color: #fff;
 }
 
@@ -504,14 +504,14 @@ main > section {
 }
 
 .fancybox-next span {
-  background: url("../images/right.png") no-repeat scroll center center #0aa6bd;
+  background: url("../images/right.png") no-repeat scroll center center #000000;
   height: 50px;
   width: 50px;
   right: 0;
 }
 
 .fancybox-prev span {
-  background: url("../images/left.png") no-repeat scroll center center #0aa6bd;
+  background: url("../images/left.png") no-repeat scroll center center #000000;
   height: 50px;
   width: 50px;
   left: 0;
@@ -636,7 +636,7 @@ main > section {
 }
 
 .video-popup-button {
-  background-color: #0aa6bd;
+  background-color: #000000;
   border-radius: 50%;
   color: #fff;
   display: inline-block;
@@ -714,7 +714,7 @@ main > section {
 }
 
 .portfolio-filter li a.active {
-  color: #0aa6bd;
+  color: #000000;
 }
 
 .portfolio-filter li a::after {
@@ -805,7 +805,7 @@ ul.external li a {
 }
 
 ul.external li a:hover {
-  background-color: #0aa6bd;
+  background-color: #000000;
   color: #fff;
 }
 
@@ -954,7 +954,7 @@ ul.external li a:hover {
 }
 
 .price-table.featured .value {
-  background-color: #0aa6bd;
+  background-color: #000000;
   color: #fff;
 }
 
@@ -998,7 +998,7 @@ ul.external li a:hover {
 
 .price-table.featured ul li:last-child,
 .price-table ul li:last-child:hover {
-  background-color: #0aa6bd;
+  background-color: #000000;
 }
 
 .price-table.featured ul li:last-child a,
