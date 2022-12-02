@@ -659,7 +659,7 @@ main > section {
 }
 
 .video-popup-button:before {
-  border: 2px solid #fff;
+  border: 2px solid #000000;
   border-radius: 50%;
   bottom: 0;
   content: "";
