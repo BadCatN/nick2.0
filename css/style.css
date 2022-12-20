@@ -37,7 +37,7 @@ iframe {
 }
 
 a {
-  color: #ffffff;
+  color: #000000;
   transition: all 0.3s ease-out 0s;
 }
 
@@ -67,6 +67,7 @@ h6,
 
 p {
   font-size: 15px;
+  color: #000000;
 }
 
 main > section {
@@ -84,7 +85,7 @@ main > section {
   background-color: #fff ;
   box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.15) inset;
   padding: 15px 55px;
-  color: #B2222;
+  color: #000000;
 }
 
 .btn-border {
@@ -184,7 +185,7 @@ main > section {
 }
 
 .section-title.white h2:after {
-  background: #fff;
+  background: rgb(0, 0, 0);
 }
 
 .parallax {
@@ -268,6 +269,7 @@ main > section {
 }
 
 #navigation.animated-header {
+  color: #000;
   padding: 20px 0;
 }
 
@@ -332,6 +334,7 @@ main > section {
   margin: 0 auto;
   position: relative;
   overflow: hidden;
+  
 }
 
 .sl-slider {
@@ -371,12 +374,13 @@ main > section {
 }
 
 .slide-caption .caption-content {
+  
   vertical-align: middle;
   display: table-cell;
 }
 
 .caption-content h2 {
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-size: 50px;
   font-weight: 900;
   margin-bottom: 25px;
@@ -448,6 +452,7 @@ main > section {
 
 /* Horizontal slice */
 .sl-slide-horizontal .sl-content-slice {
+  background-color: rgb(255, 255, 179);
   width: 100%;
   height: 50%;
   left: -200px;
@@ -457,11 +462,13 @@ main > section {
 .sl-slide-horizontal .sl-content-slice:first-child {
   top: -200px;
   padding: 200px 200px 0px 200px;
+  background-color: rgb(255, 255, 179);
 }
 
 .sl-slide-horizontal .sl-content-slice:nth-child(2) {
   top: 50%;
   padding: 0px 200px 200px 200px;
+  background-color: rgb(255, 255, 179);
 }
 
 /* Vertical slice */
@@ -470,6 +477,7 @@ main > section {
   height: 100%;
   top: -200px;
   transform: translateX(0%) scale(1);
+  background-color: rgb(255, 255, 179);
 }
 
 .sl-slide-vertical .sl-content-slice:first-child {
@@ -1019,6 +1027,7 @@ ul.external li a:hover {
 }
 
 .social-button {
+  background-color: rgb(165, 165, 165);
   margin: 0;
   padding: 0;
   list-style: none;
